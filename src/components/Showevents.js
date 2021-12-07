@@ -8,7 +8,7 @@ const Showevents = () => {
     return (
         <div>
             
-            <div className="">
+            <div className="row">
                 <div className="title">
                     <h2>All Events</h2>
                 </div>

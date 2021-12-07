@@ -8,7 +8,7 @@ const Showpackages = () => {
     return (
         <div>
             
-            <div className="">
+            <div className="row">
                 <div className="title">
                     <h2>All Packages</h2>
                 </div>
